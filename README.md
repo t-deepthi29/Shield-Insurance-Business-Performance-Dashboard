@@ -7,7 +7,7 @@ The dashboard provides a high-level and detailed view of revenue, customers, sal
 
 The goal of this project is to help stakeholders quickly understand business health, customer distribution, and revenue trends across multiple dimensions.
 
-** 🎯 Business Objectives:**
+**🎯 Business Objectives:**
 
 🔹Monitor overall business performance using key KPIs
 
@@ -19,9 +19,9 @@ The goal of this project is to help stakeholders quickly understand business hea
 
 🔹Support targeted marketing and strategic planning
 
-@ Dashboard Views & Analysis:
+**Dashboard Views & Analysis:**
 
-@📈 Business Overview
+**📈 Business Overview**
 
 🔹Total Revenue
 
@@ -33,7 +33,7 @@ The goal of this project is to help stakeholders quickly understand business hea
 
 🔹City-wise customer and revenue distribution
 
-@🛒 Sales Mode View
+**🛒 Sales Mode View**
 
 🔹Customer contribution by sales mode
 
@@ -49,7 +49,7 @@ The goal of this project is to help stakeholders quickly understand business hea
 
 🔹Identification of top-performing and underperforming sales modes
 
-@👥 Age Group View
+**👥 Age Group View**
 
 🔹Customer segmentation by age groups
 
@@ -59,7 +59,7 @@ The goal of this project is to help stakeholders quickly understand business hea
 
 🔹Customer trends by age group over time
 
-@🔍 Key Insights:
+**🔍 Key Insights:**
 
 🔹Delhi NCR contributes the highest revenue and customer base
 
@@ -71,9 +71,9 @@ The goal of this project is to help stakeholders quickly understand business hea
 
 🔹Younger age groups contribute fewer customers compared to mid-age segments
 
-@🛠️ Tools & Skills Used:
+**🛠️ Tools & Skills Used:**
 
-@🔧 Technical Skills
+**🔧 Technical Skills**
 🔹Power BI
 
 🔹Power Query (Data Cleaning & Transformation)
@@ -86,7 +86,7 @@ The goal of this project is to help stakeholders quickly understand business hea
 
 🔹Slicers & Filters
 
-@🧠 Analytical Skills
+**🧠 Analytical Skills**
 🔹Business Performance Analysis
 
 🔹Customer Segmentation
@@ -97,7 +97,7 @@ The goal of this project is to help stakeholders quickly understand business hea
 
 🔹Insight-driven Storytelling
 
-@📚 Key Learnings:
+**📚 Key Learnings:**
 
 🔹Designed an end-to-end business dashboard from raw data
 
@@ -107,7 +107,7 @@ The goal of this project is to help stakeholders quickly understand business hea
 
 🔹Improved ability to translate data into actionable insights
 
-@🚀 Why This Project Matters:
+**🚀 Why This Project Matters:**
 
 This project demonstrates my ability to:
 
@@ -119,10 +119,10 @@ This project demonstrates my ability to:
 
 🔹Support business decisions through clear insights
 
-@🙌 Acknowledgements:
+**🙌 Acknowledgements:**
 
 This pilot project was created as part of a learning initiative to strengthen business analytics and dashboarding skills.
 
-@🔗 Lets Connect:
+**🔗 Lets Connect:**
 
 📧 Email: deepthitirunagari4@gmail.com
