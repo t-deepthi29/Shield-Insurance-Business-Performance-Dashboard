@@ -1,13 +1,13 @@
-#🛡️ Shield Insurance – Business Performance Dashboard (Pilot Project)
+# 🛡️ Shield Insurance – Business Performance Dashboard (Pilot Project)
 
-@📌 Project Overview:
+** 📌 Project Overview: **
 
 This pilot project focuses on analyzing Shield Insurance business performance using an interactive dashboard.
 The dashboard provides a high-level and detailed view of revenue, customers, sales channels, and age-group segmentation to support data-driven decision-making.
 
 The goal of this project is to help stakeholders quickly understand business health, customer distribution, and revenue trends across multiple dimensions.
 
-@🎯 Business Objectives:
+** 🎯 Business Objectives:**
 
 🔹Monitor overall business performance using key KPIs
 
